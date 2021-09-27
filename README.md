@@ -1,7 +1,7 @@
-## Hello 👋
-I'm Levente, a novice developer!  
-I'm interested in programming, i used  javascript, now i'm learning php and python.  
-"whether you've written 10 lines of code or have been writting a code for 10 years."
+<h1 align='center'>Hello 👋</h1>
+I'm Levente, a novice developer!<br>
+I'm interested in programming, i used  javascript, now i'm learning php and python.<br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leventehodi&layout=compact" />
 
 
 <!---

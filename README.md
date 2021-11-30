@@ -1,4 +1,4 @@
-<h1>Hello 👋</h1>
+<h2>Hi there 👋</h2>
 I'm f1oppa, a developer!<br>
 I'm interested in programming.<br>
 I like python and java.<br>

@@ -8,7 +8,7 @@ public class README {
     String name = "Levente";
     String website = "https://f1oppa.github.io/";
     String IDE = "Visual Studio Code";
-    String[] languages = {"Java", "Python", "JavaScript"};
+    String[] languages = {"Go", "Java", "Python", "JavaScript"};
     boolean LinuxUser = true;
     continue;
   }

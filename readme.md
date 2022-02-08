@@ -1,18 +1,8 @@
 ## Hi there! 👋
 
-<img align="right" width="236" height="236" src="https://github.com/f1oppa.png">
+- I am a **full stack developer** from Hungary.
+- I am familiar with many programming languages such as **python**, **java**, php and **go**.
+- I am interested in **cyber security / ethical hacking**.
+- I am currently working on my **personal website**.
 
-```java
-public class README {
-  public static void main(String[] args) {
-    String name = "Levente";
-    String website = "https://f1oppa.github.io/";
-    String IDE = "Visual Studio Code";
-    String[] languages = {"Go", "Java", "Python", "JavaScript"};
-    boolean LinuxUser = true;
-    continue;
-  }
-}
-
-// Hello
-```
+If you want to contact me, you can reach me in [Discord](https://discord.com/users/877778571748331561).

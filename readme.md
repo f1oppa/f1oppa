@@ -1,7 +1,7 @@
 ## Hi there! 👋
 
 - I am a **full stack developer** from Hungary.
-- I am familiar with many programming languages such as **JavaScript**, **Python**, php and **C#**.
+- I am familiar with many programming languages such as **JavaScript**, **Java**, Python, *C#**.
 - I am interested in **cyber security / ethical hacking**.
 - I am currently working on my **personal website**.
 

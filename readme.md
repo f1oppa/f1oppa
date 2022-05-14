@@ -10,9 +10,9 @@
 </ul>
 
 <a href="https://discord.com/user/877778571748331561">
-  <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" width=32 height=32>
+  <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" width=38 height=38>
 </a>
 &nbsp;
 <a href="https://github.com/f1oppa">
-    <img src="https://icon-library.com/images/github-icon-png/github-icon-png-29.jpg" width=32 height=32>
+    <img src="https://icon-library.com/images/github-icon-png/github-icon-png-29.jpg" width=38 height=38>
 </a>

@@ -9,6 +9,8 @@
   <li>I am currently working on my <b>personal website</b>.</li>
 </ul>
 
+<br>
+
 <a href="https://discord.com/user/877778571748331561">
   <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" width=32 height=32>
 </a>

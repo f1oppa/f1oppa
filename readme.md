@@ -9,3 +9,5 @@
   <li>I am currently working on my <b>personal website</b>.</li>
   <li>You can <b>reach me</b> on my <a href="https://discord.com/users/877778571748331561">Discord</a> account.</li>
 </ul>
+
+<img src="https://komarev.com/ghpvc/?username=f1oppa">
